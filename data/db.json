@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "In Bruges",
+      "body": "After a particularly difficult job, hit men Ray (Colin Farrell) and Ken (Brendan Gleeson) head to Belgium to hide out until things cool down. Ray hates the medieval city they land in, but Ken finds its beauty and peacefulness enchanting. Their experiences become increasingly surreal and possibly life-changing as they encounter tourists, locals, an American dwarf and a potential romance for Ray.",
+      "author": "Martin Mcdonagh",
+      "id": 1
+    },
+    {
+      "title": "Rushmore",
+      "body": "When a beautiful first-grade teacher (Olivia Williams) arrives at a prep school, she soon attracts the attention of an ambitious teenager named Max (Jason Schwartzman), who quickly falls in love with her. Max turns to the father (Bill Murray) of two of his schoolmates for advice on how to woo the teacher. However, the situation soon gets complicated when Max's new friend becomes involved with her, setting the two pals against one another in a war for her attention.",
+      "author": "Wes Anderson",
+      "id": 2
+    },
+    {
+      "title": "Miller's Crossing",
+      "body": "When the Italian Mafia threatens to kill a crooked bookie (John Turturro), Irish mob boss Leo O'Bannon (Albert Finney) refuses to allow it, chiefly because he's dating the bookie's sister, crafty gun moll Verna Bernbaum (Marcia Gay Harden). Leo's right-hand man, Tom Reagan (Gabriel Byrne), is also seeing Verna on the sly, and when he's found out is obliged to switch sides, going to work for the Italian mob amidst a dramatically escalating gang war over liquor distribution.",
+      "author": "Coen Brother's",
+      "id": 3
+    },
+    {
+      "title": "Seven Psychopaths",
+      "body": "Boozy writer Marty (Colin Farrell) is a man in search of a screenplay. He has a catchy title but no story to go along with it. Marty has a couple of oddball buddies, Hans (Christopher Walken) and Billy (Sam Rockwell), who make a living by kidnapping rich people's dogs, then returning them and collecting the reward. However this time, the fur flies when Hans and Billy kidnap the beloved pooch of a gangster (Woody Harrelson), and Marty uses the ensuing events as fodder for his screenplay.",
+      "author": "Martin Mcdonagh",
+      "id": 4
+    }
+  ]
+}
