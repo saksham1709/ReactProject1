@@ -29,8 +29,8 @@ const Home = () => {
         //     const newBlogs = blogs.filter(blog => blog.id !==id);
         //     setBlogs(newBlogs);
         // } 
-    const { data: blogs, isPending, error } = useFetch('http://localhost:8000/blogs');
-
+    // const { data: blogs, isPending, error } = useFetch('http://localhost:8000/blogs');
+    const { data: blogs, isPending, error } = useFetch('https://my-json-server.typicode.com/saksham1709/json/blogs');
     return (
         <div className="home">
             {error && <div>{error}</div>}
